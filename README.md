@@ -1,4 +1,4 @@
-# Hello I'm Jun Leanard Dela Peña 2nd year Student my motto is "Keep learning until that L is silent"
+Hello I'm Jun Leanard Dela Peña 2nd year Student, My motto in life is "Keep learning until that L is silent"
 
 # 🧒 About me
 
