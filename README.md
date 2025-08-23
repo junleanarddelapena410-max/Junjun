@@ -1,10 +1,10 @@
-# Hello I'm Jun Leanard Dela Peña 
+# Hello I'm Jun Leanard Dela Peña 2nd year Student my motto is "Keep learning until that L is silent"
 
 # 🧒 About me
 
 • 📌 BSIT Student at Laguna State Polytechnic University
 
-• 🧠 Currently learning Python, Flask, SQL
+• 🧠 Currently learning Python
 
 • ✨ Goal: The goal I have right now is to learn programming 
 
