@@ -16,8 +16,6 @@ Hello I'm Jun Leanard Dela Peña 2nd year Student, My motto in life is "Keep lea
 
 # 📌 Current Projects
 
-• Learning Git and GitHub for version control
-
 • Developing practice projects in Python
 
 # 📥 Connect with Me
