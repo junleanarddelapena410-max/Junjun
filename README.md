@@ -10,7 +10,7 @@ Hello I'm Jun Leanard Dela Peña 2nd year Student, My motto in life is "Keep lea
 
 • 🤔 I'm Interested in Animation and UI/UX Design
 
-# 💤 Skills
+#  Skills
 
 • 🌱 Languages: Beginner in Python 
 
